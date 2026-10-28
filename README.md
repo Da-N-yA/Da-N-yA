@@ -12,7 +12,7 @@
 
 # About ME 💬 :
 
-### - Привет, мне 22 года. Выпускник КФУ по направлению "Программная инженерия". 
+### - Выпускник КФУ по направлению "Программная инженерия". Java-developer.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/9d/ca/a9/9dcaa998a0ee8370455c64b9cc4a61b6.gif">
 
